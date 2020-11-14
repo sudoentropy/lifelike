@@ -1,3 +1,3 @@
-# tried intitalizing this
+# tried initializing this
 
 from .model import Model
