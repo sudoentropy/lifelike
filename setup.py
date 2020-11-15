@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# built this and trying to figure out how it works
 import os
 
 from setuptools import setup, find_packages
